@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.1"
+  },
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "Andrii Koliadenko",
+  "license": "ISC",
+  "description": ""
+}
